@@ -1,0 +1,27 @@
+body{
+    background-color: gray;
+}
+p{
+    border: blue, width 10px,height 10;
+}
+#email{
+    background-color: gray;
+}
+#pass{
+    background-color: gray;
+}
+#login{
+    background-color: gray;
+}
+#feedback{
+    border: blue;
+}
+table, tr, td, thead, th{
+    border: 1px solid #eee;
+}
+span{
+    color: red;
+}
+hr{
+    color: red;
+}

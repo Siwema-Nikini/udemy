@@ -1,0 +1,25 @@
+html{
+    box-sizing: border-box;
+}
+
+
+h1{
+    color: red;
+}
+form{
+    border: purple 10PX double;
+    /* border-width: thick; */
+    /* border-style: dotted; */
+}
+body{
+    /* background: url(img/IMG_20211205_131905_7.jpg); */
+     background-color: grey; 
+}
+input{
+    background-color: grey;
+}
+/* image{ */
+    /* float: left; */
+/* } */
+
+ 
